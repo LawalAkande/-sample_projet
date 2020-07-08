@@ -1,0 +1,93 @@
+#headLink{
+    color: white; 
+    text-decoration: none;
+    word-spacing: 10px;
+}
+
+#headLink:hover{
+    opacity: 0.7;
+}
+#socialMediaImages{
+    width: 25px; 
+    height: 25px; 
+    padding-bottom: 1px; 
+    border-radius: 4px; 
+    margin: 0px 5px;
+    background-color: rgb(180, 20, 20);
+    
+}
+#socialMediaImages:hover{
+    opacity: 0.8;
+    background-color: rgb(180, 20, 20);
+}
+#top_navLinks{
+    color: black;
+    font-weight: 700; 
+    padding: 12px;
+    border-radius: 4px;
+}
+#top_navLinks:hover{
+    background-color: rgb(180, 20, 20);
+    color: white;
+    padding: 12px;
+    border-radius: 4px;
+    text-decoration: none;
+}
+#dropdown_links{
+    color: white;
+    text-decoration: none;
+}
+#dropdown_links:hover{
+    color: orange;
+    text-decoration: none;
+    border-radius: 4px;
+}
+#hover_link_button{
+    background-color: brown;
+    color: white;
+    border-radius: 4px;
+}
+#w3_Row{
+    height: 400px;
+    line-height: 1.8;
+}
+#img_news_link{
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
+#img_news_link:hover{
+    color: rgb(180, 20, 20);
+}
+#img_date_link{
+    color: gray;
+    font-size: 12px;
+    opacity: 0.8;
+}
+#colFooter{
+    width: 20%;
+}
+#footerLink{
+    color: white;
+}
+#footerLink:hover{
+    color: brown;
+    text-decoration: underline;
+}
+#theHr{
+    background-color: rgb(250, 250, 250);
+}
+#studentsLink{
+    color: black;
+}
+#studentsLink:hover{
+    color: brown;
+    text-decoration: underline;
+}
+#ourCampusLink{
+    color: black;
+}
+#ourCampusLink:hover{
+    color: brown;
+    text-decoration: none;
+}
